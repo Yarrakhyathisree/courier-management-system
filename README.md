@@ -17,7 +17,7 @@ session.php	Handles session validation and access control
 dbconnection.php	Establishes connection with MySQL database
 🛠️ Setup Instructions
 1.	Clone the Project:
-  git clone https://github.com/your-username/courier-management-system.git
+  git clone https://github.com/Yarrakhyathisree/courier-management-system
 2.	Database Setup:
   - Create a MySQL database (e.g., courier_db)
   - Create required tables (e.g., users)
